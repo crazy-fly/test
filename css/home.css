@@ -1,6 +1,6 @@
 .he {
     text-align: center;
-    background: url(img/head.jpg);
+    background-image: url(../img/head.jpg);
     
 }
 h1 {
@@ -9,13 +9,14 @@ h1 {
     background: linear-gradient(rgba(21, 77, 44, 0.603)) ;
 }
 .cool {
-    background: #fbe7c6;
+    background-image: url(../img/ricardo-gomez-angel-qZIPaDwDfkA-unsplash.jpg);
     text-align: center;
     margin: 0% 25% 0% 25%;
     font-size: 25px;
     text-decoration: none;
-    
+  
 }
-#id {
-
+a {
+    text-decoration: none;
+    
 }

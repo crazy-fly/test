@@ -1,0 +1,43 @@
+body{
+    background-color: cornflowerblue;
+}
+.l1{
+    padding: 50px;
+    background-color: crimson;
+
+}
+input[type=text]{
+    width:100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background-color: cyan;
+}
+input[type=text]:focus{
+    background-color: darkcyan;
+    outline: none;
+}
+input[type=password]{
+    width:100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background-color: cyan;
+}
+input[type=password]:focus{
+    background-color: darkcyan;
+    outline: none;
+}
+div{
+    padding: 10px 0;
+    margin: 0px 25% 0px 25%;
+}
+.btn{
+    background-color: cadetblue;
+    transition-delay: 1ms;
+}
+label{
+    text-decoration-color: cornsilk;
+}
